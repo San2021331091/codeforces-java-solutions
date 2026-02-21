@@ -1,14 +1,14 @@
-# 🏆 Codeforces Solutions in JAVA
+# 🏆 Codeforces Solutions in JAVA and KOTLIN
 
-This repository contains my accepted solutions to problems from **Codeforces**, implemented in **Java**.
+This repository contains my accepted solutions to problems from **Codeforces**, implemented in **Java** and **Kotlin**.
 
-The goal of this repository is to consistently practice competitive programming, improve algorithmic thinking, and write efficient Java solutions.
+The goal of this repository is to consistently practice competitive programming, improve algorithmic thinking, and write efficient Java and Kotlin solutions.
 
 ---
 
 ## 🚀 About
 
-* 👨‍💻 Language: **Java (JVM)**
+* 👨‍💻 Language: **Java and Kotlin (JVM)**
 * 🧠 Focus: Data Structures & Algorithms
 * ⚡ Optimized for Competitive Programming
 * 🎯 Target Rating Range: 800 → 2000+
@@ -17,14 +17,14 @@ The goal of this repository is to consistently practice competitive programming,
 
 ## 🧩 Topics Covered
 
-* Implementation
-* Math
+
 * Greedy
 * Binary Search
-* Two Pointers
 * Sorting
 * Graph Theory
+* Tree Theory
 * Dynamic Programming
+* Backtracking
 * Bit Manipulation
 * Data Structures
 
