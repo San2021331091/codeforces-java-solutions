@@ -47,10 +47,12 @@ The goal of this repository is to consistently practice competitive programming,
 
 * Binary Search
 * Linear Search
-* Ternary Search
-* Exponential Search
 
 ---
+### 🔎 String Matching
+
+* KMP
+* Rabin Karp
 
 ### 📊 Sorting & Ordering
 
