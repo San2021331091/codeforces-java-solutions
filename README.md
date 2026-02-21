@@ -86,6 +86,22 @@ The goal of this repository is to consistently practice competitive programming,
 
 ---
 
+### 💡 Bit Manipulation
+
+* XOR Tricks
+* Bitwise AND/OR
+
+---
+
+### 🔢 Advanced Mathematics
+
+* Combinatorics (nCr, Pascal’s Triangle)
+* Matrix Exponentiation
+* Sieve of Eratosthenes
+* Probability Basics
+
+---
+
 ### 🧠 Greedy Algorithms
 
 * Prim
@@ -125,12 +141,8 @@ The goal of this repository is to consistently practice competitive programming,
 
 ### 🏗 Branch and Bound
 
-* Common Problems:
-
-  * Eight Puzzle Problem
-  * Traveling Salesman Problem (TSP)
-
-
+* Eight Puzzle Problem
+* Traveling Salesman Problem (TSP)
 
 ---
 
@@ -143,21 +155,7 @@ The goal of this repository is to consistently practice competitive programming,
 * Support Vector Machines (SVM)
 * Ensemble learning
 * TF-IDF
----
 
-### 💡 Bit Manipulation
-
-* XOR Tricks
-* Bitwise AND/OR
-
----
-
-### 🔢 Advanced Mathematics
-
-* Combinatorics (nCr, Pascal’s Triangle)
-* Matrix Exponentiation
-* Sieve of Eratosthenes
-* Probability Basics
 
 ---
 
