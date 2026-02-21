@@ -31,18 +31,6 @@ The goal of this repository is to consistently practice competitive programming,
 
 ---
 
-### 🧠 Greedy Algorithms
-
-* Prim
-* Kruskal
-* Activity Selection
-* Job Scheduling
-* Dijkstra
-* Fractional Knapsack
-* Ford Fulkerson / Edmonds Karp
-
----
-
 ### 🔎 Searching Techniques
 
 * Binary Search
@@ -95,10 +83,21 @@ The goal of this repository is to consistently practice competitive programming,
 * Connected Components
 * Shortest Path
 * Minimum Spanning Tree
-* Strongly Connected Components (SCC)
-* Bipartite Graph Check
 
 ---
+
+### 🧠 Greedy Algorithms
+
+* Prim
+* Kruskal
+* Activity Selection
+* Job Scheduling
+* Dijkstra
+* Fractional Knapsack
+* Ford Fulkerson / Edmonds Karp
+
+---
+
 
 ### 🔁 Dynamic Programming
 
