@@ -1,3 +1,7 @@
+Got it! Let’s create a **separate section just for Branch and Bound** so it stands out clearly in your topics list. Here's the updated version:
+
+---
+
 # 🏆 Codeforces Solutions in JAVA and KOTLIN
 
 This repository contains my accepted solutions to problems from **Codeforces**, implemented in **Java** and **Kotlin**.
@@ -11,25 +15,150 @@ The goal of this repository is to consistently practice competitive programming,
 * 👨‍💻 Language: **Java and Kotlin (JVM)**
 * 🧠 Focus: Data Structures & Algorithms
 * ⚡ Optimized for Competitive Programming
-* 🎯 Target Rating Range: 800 → 2000+
+* 🎯 Target Rating Range: **800 → 2000+**
+* 🏁 Platform: Codeforces
 
 ---
 
-## 🧩 Topics Covered
+## 🧩 Topics Covered (Data Structures and Algorithm Based)
 
+### 🔢 Basic Implementation
 
-* Greedy
+* Brute Force
+* Simulation
+* Math Fundamentals
+* Number Theory Basics (GCD, LCM, Primes)
+
+---
+
+### 🧠 Greedy Algorithms
+
+* Prim
+* Kruskal
+* Activity Selection
+* Job Scheduling
+* Dijkstra
+* Fractional Knapsack
+* Ford Fulkerson / Edmonds Karp
+
+---
+
+### 🔎 Searching Techniques
+
 * Binary Search
-* Sorting
-* Graph Theory
-* Tree Theory
-* Dynamic Programming
-* Backtracking
-* Bit Manipulation
-* Data Structures
+* Linear Search
+* Ternary Search
+* Exponential Search
 
 ---
 
+### 📊 Sorting & Ordering
+
+* Custom Comparators
+* Coordinate Compression
+* Stable vs Unstable Sorting
+* Order Statistics
+
+---
+
+### 🗂 Data Structures
+
+* Arrays & Strings
+* Stack & Queue
+* Deque
+* Linked List
+* HashMap / HashSet
+* Priority Queue (Heap)
+* Set / Multiset
+* Map / TreeMap
+* Disjoint Set Union (DSU)
+
+---
+
+### 🌳 Tree Algorithms
+
+* Tree Traversals (DFS, BFS)
+* Binary Trees
+* Lowest Common Ancestor (LCA)
+* Tree DP
+
+---
+
+### 🌐 Graph Theory
+
+* Graph Representation
+* BFS & DFS
+* Topological Sort
+* Cycle Detection
+* Connected Components
+* Shortest Path
+* Minimum Spanning Tree
+* Strongly Connected Components (SCC)
+* Bipartite Graph Check
+
+---
+
+### 🔁 Dynamic Programming
+
+* MCM
+* LCS
+* LIS
+* LDS
+* Coin Change
+* 0/1 Knapsack
+* Floyd Warshall
+* Digit DP
+* Bitmask DP
+
+---
+
+### 🔙 Backtracking & Recursion
+
+* Sum of Subsets Problem
+* N-Queens
+* Graph Coloring
+* Farmer, River, and Cabbage Problem
+* Missionaries & Cannibals' Problem
+
+---
+
+### 🏗 Branch and Bound
+
+* Common Problems:
+
+  * Eight Puzzle Problem
+  * Traveling Salesman Problem (TSP)
+
+
+
+---
+
+### 🤖 Artificial Intelligence & Machine Learning
+
+* K-Nearest Neighbors (KNN)
+* Decision Tree
+* Regression(Linear,Polynomial & Logistic) & Correlation
+* Neural Networks(CNN,RNN)
+* Support Vector Machines (SVM)
+* Ensemble learning
+* TF-IDF
+---
+
+### 💡 Bit Manipulation
+
+* XOR Tricks
+* Bitwise AND/OR
+
+---
+
+### 🔢 Advanced Mathematics
+
+* Combinatorics (nCr, Pascal’s Triangle)
+* Matrix Exponentiation
+* Sieve of Eratosthenes
+* Probability Basics
+
+---
 
 ## 🎯 Goals
 
@@ -37,6 +166,7 @@ The goal of this repository is to consistently practice competitive programming,
 * ✔ Solve problems consistently
 * ✔ Improve speed and accuracy
 * ✔ Strengthen problem-solving skills
+* ✔ Reach Expert / Candidate Master level
 
 ---
 
@@ -45,3 +175,4 @@ The goal of this repository is to consistently practice competitive programming,
 **Santosh Saha**
 
 Competitive Programmer | Java & Kotlin Developer
+
