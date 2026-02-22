@@ -1,7 +1,3 @@
-Got it! Let’s create a **separate section just for Branch and Bound** so it stands out clearly in your topics list. Here's the updated version:
-
----
-
 # 🏆 Codeforces Solutions in JAVA and KOTLIN
 
 This repository contains my accepted solutions to problems from **Codeforces**, implemented in **Java** and **Kotlin**.
@@ -155,8 +151,6 @@ The goal of this repository is to consistently practice competitive programming,
 * Support Vector Machines (SVM)
 * Ensemble learning
 * TF-IDF
-
-
 ---
 
 ## 🎯 Goals
