@@ -1,3 +1,5 @@
 *.class
 .vscode/
 *.jar
+.idea/
+out/
