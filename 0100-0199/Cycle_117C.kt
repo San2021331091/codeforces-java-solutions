@@ -1,4 +1,4 @@
-fun dfs(
+private fun dfs(
     node: Int,
     from: Int,
     g: Array<BooleanArray>,
